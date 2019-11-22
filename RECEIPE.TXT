@@ -2,3 +2,5 @@ Welcome
 
 Kheer 
 pasta
+
+rice
